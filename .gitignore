@@ -1,0 +1,13 @@
+# Entornos virtuales
+venv/
+env/
+.venv/
+
+# Archivos temporales y caché de Python
+__pycache__/
+*.pyc
+temp_upload.jpg
+resultado_ocr.txt
+
+# Ignorar la carpeta de imágenes para proteger la privacidad de los datos
+dataset/
