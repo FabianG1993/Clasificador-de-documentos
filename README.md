@@ -1,4 +1,4 @@
-# 📄 Clasificador Inteligente de Documentos (Document AI) 📄
+# 📄 Clasificador inteligente de documentos (Document AI) 📄
 
 Un pipeline de Procesamiento Inteligente de Documentos (IDP) de extremo a extremo, diseñado para clasificar automáticamente documentos corporativos (facturas y contratos) extrayendo su texto mediante Visión por Computadora y aplicando Machine Learning.
 
