@@ -44,4 +44,4 @@ python -m streamlit run app_clasificador.py
 El modelo .pkl incluido es una Prueba de Concepto (PoC) arquitectónica entrenada con una muestra reducida de documentos para demostrar el flujo E2E. Para un despliegue en producción real, se recomienda:
 
 - Ingestar un corpus balanceado de +500 documentos por categoría.
-- Implementar técnicas de Data Augmentation (rotación, ruido, blur) durante el entrenamiento para robustecer el modelo frente a escaneos de baja calidad.
+- Implementar técnicas de Data Augmentation (rotación, ruido, blur) durante el entrenamiento para robustecer el modelo frente a imagenes/escaneos de baja calidad.
